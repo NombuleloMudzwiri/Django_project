@@ -1,0 +1,1 @@
+Link to my public remote Git repository: https://github.com/Nombulie/Django_project
