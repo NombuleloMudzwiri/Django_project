@@ -1,6 +1,6 @@
 # Django Capstone Project
 
-Welcome to the Django Capstone Project! This README provides instructions on setting up and running your Django application using both a virtual environment (venv) and Docker. Additionally, it covers acquiring and adding secrets to your project.
+Welcome to the Django Capstone Project! This README provides instructions on setting up and running my Ecommerce Django application using both a virtual environment (venv) and Docker. Additionally, it covers acquiring and adding secrets to your project.
 
 ## Table of Contents
 
@@ -89,7 +89,6 @@ API_KEY=your-api-key
 NB!: Remember that secrets are sensitive information, and it's important to handle them securely.
 
 #Repository Information
-##Author: Your Name
-##Project: Django Capstone Project
-##Repository: Link to your public repository
-##Documentation: Link to your generated documentation
+##Author: Nombulelo Mudzwiri
+##Project: Django Hyperion Capstone Project
+##Repository: Link  https://github.com/NombuleloMudzwiri/Django_project
