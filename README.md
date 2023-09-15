@@ -1,6 +1,6 @@
 # Django Capstone Project
 
-Welcome to the Django Capstone Project! This README provides instructions on setting up and running my Ecommerce Django application using both a virtual environment (venv) and Docker. Additionally, it covers acquiring and adding secrets to your project.
+Welcome to my Django Capstone Project! This README provides instructions on setting up and running my Ecommerce Django application using both a virtual environment (venv) and Docker. Additionally, it covers acquiring and adding secrets to your project.
 
 ## Table of Contents
 
